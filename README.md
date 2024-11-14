@@ -30,10 +30,10 @@ const myInformation = {
 
 ## The percentage of my abilities :
 #### JavaScript 90%
-<img width="355px" src="https://github.com/amiraghajan78/amiraghajan78/blob/main/percent.png?raw=true" />
+<img width="340px" src="https://github.com/amiraghajan78/amiraghajan78/blob/main/percent.png?raw=true" />
 
 #### React 80%
-<img width="316px" src="https://github.com/amiraghajan78/amiraghajan78/blob/main/percent.png?raw=true" />
+<img width="300px" src="https://github.com/amiraghajan78/amiraghajan78/blob/main/percent.png?raw=true" />
 
 #### HTML , CSS 100%
 <img width="395px" src="https://github.com/amiraghajan78/amiraghajan78/blob/main/percent.png?raw=true" />
@@ -42,10 +42,10 @@ const myInformation = {
 <img width="395px" src="https://github.com/amiraghajan78/amiraghajan78/blob/main/percent.png?raw=true" />
 
 #### JQuery 90%
-<img width="355px" src="https://github.com/amiraghajan78/amiraghajan78/blob/main/percent.png?raw=true" />
+<img width="340px" src="https://github.com/amiraghajan78/amiraghajan78/blob/main/percent.png?raw=true" />
 
 #### TypeScript 80%
-<img width="316px" src="https://github.com/amiraghajan78/amiraghajan78/blob/main/percent.png?raw=true" />
+<img width="300px" src="https://github.com/amiraghajan78/amiraghajan78/blob/main/percent.png?raw=true" />
 
 #### PHP 90%
-<img width="355px" src="https://github.com/amiraghajan78/amiraghajan78/blob/main/percent.png?raw=true" />
+<img width="340px" src="https://github.com/amiraghajan78/amiraghajan78/blob/main/percent.png?raw=true" />
