@@ -11,3 +11,4 @@
 ## Contact Me :
 <a href="https://instagram.com/amir.1.1.78"><img src="https://github.com/amiraghajan78/amiraghajan78/blob/main/instagram.png?raw=true" /></a>
 <a href="https://t.me/aghajan1178"><img src="https://github.com/amiraghajan78/amiraghajan78/blob/main/telegram.png?raw=true" /></a>
+<a href="https://wa.link/50eqf9"><img src="https://github.com/amiraghajan78/amiraghajan78/blob/main/whatsapp.png?raw=true" /></a>
