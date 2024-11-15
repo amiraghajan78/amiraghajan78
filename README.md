@@ -30,7 +30,7 @@ const myInformation = {
 <a href="https://wa.link/50eqf9"><img src="https://github.com/amiraghajan78/amiraghajan78/blob/main/whatsapp.png?raw=true" /></a>
 
 ## My Skils : 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<img width="50px" src="https://raw.githubusercontent.com/amiraghajan78/amiraghajan78/53b70b8f0ecafa3a14dadeef714a7b7f2fd21011/Bootstrap-logo-vector-01.svg" /><img width="50px" src="https://raw.githubusercontent.com/amiraghajan78/amiraghajan78/53b70b8f0ecafa3a14dadeef714a7b7f2fd21011/CSS-3-logo-vector-01.svg" /><img width="50px" src="https://raw.githubusercontent.com/amiraghajan78/amiraghajan78/53b70b8f0ecafa3a14dadeef714a7b7f2fd21011/HTML-5-logo-vector-01.svg" /><img width="60px" src="https://raw.githubusercontent.com/amiraghajan78/amiraghajan78/fe49ebeea5052811585b9afbed5ea85658b66cde/JQuery-logo-vector-01.svg" /><img width="50px" src="https://raw.githubusercontent.com/amiraghajan78/amiraghajan78/53b70b8f0ecafa3a14dadeef714a7b7f2fd21011/JavaScript-logo-vector-01.svg" /><img width="50px" src="https://raw.githubusercontent.com/amiraghajan78/amiraghajan78/53b70b8f0ecafa3a14dadeef714a7b7f2fd21011/MySQL-logo-vector-01.svg" /><img width="50px" src="https://raw.githubusercontent.com/amiraghajan78/amiraghajan78/53b70b8f0ecafa3a14dadeef714a7b7f2fd21011/PHP-logo-vector-01.svg" /><img width="50px" src="https://raw.githubusercontent.com/amiraghajan78/amiraghajan78/53b70b8f0ecafa3a14dadeef714a7b7f2fd21011/React-logo-vector-01.svg" /><img width="50px" src="https://raw.githubusercontent.com/amiraghajan78/amiraghajan78/53b70b8f0ecafa3a14dadeef714a7b7f2fd21011/Sass-logo-vector-01.svg" /><img width="50px" src="https://raw.githubusercontent.com/amiraghajan78/amiraghajan78/53b70b8f0ecafa3a14dadeef714a7b7f2fd21011/Typescript-logo-vector-02.svg" />
 
 ## The percentage of my abilities :
 #### JavaScript 90%
@@ -56,17 +56,3 @@ const myInformation = {
 
 #### MySql 90%
 <img width="340px" src="https://github.com/amiraghajan78/amiraghajan78/blob/main/percent.png?raw=true" />
-
-
-
-
-<img width="50px" src="https://raw.githubusercontent.com/amiraghajan78/amiraghajan78/53b70b8f0ecafa3a14dadeef714a7b7f2fd21011/Bootstrap-logo-vector-01.svg" />
-<img width="50px" src="https://raw.githubusercontent.com/amiraghajan78/amiraghajan78/53b70b8f0ecafa3a14dadeef714a7b7f2fd21011/CSS-3-logo-vector-01.svg" />
-<img width="50px" src="https://raw.githubusercontent.com/amiraghajan78/amiraghajan78/53b70b8f0ecafa3a14dadeef714a7b7f2fd21011/HTML-5-logo-vector-01.svg" />
-<img width="50px" src="https://raw.githubusercontent.com/amiraghajan78/amiraghajan78/53b70b8f0ecafa3a14dadeef714a7b7f2fd21011/JQuery-logo-vector-01.svg" />
-<img width="50px" src="https://raw.githubusercontent.com/amiraghajan78/amiraghajan78/53b70b8f0ecafa3a14dadeef714a7b7f2fd21011/JavaScript-logo-vector-01.svg" />
-<img width="50px" src="https://raw.githubusercontent.com/amiraghajan78/amiraghajan78/53b70b8f0ecafa3a14dadeef714a7b7f2fd21011/MySQL-logo-vector-01.svg" />
-<img width="50px" src="https://raw.githubusercontent.com/amiraghajan78/amiraghajan78/53b70b8f0ecafa3a14dadeef714a7b7f2fd21011/PHP-logo-vector-01.svg" />
-<img width="50px" src="https://raw.githubusercontent.com/amiraghajan78/amiraghajan78/53b70b8f0ecafa3a14dadeef714a7b7f2fd21011/React-logo-vector-01.svg" />
-<img width="50px" src="https://raw.githubusercontent.com/amiraghajan78/amiraghajan78/53b70b8f0ecafa3a14dadeef714a7b7f2fd21011/Sass-logo-vector-01.svg" />
-<img width="50px" src="https://raw.githubusercontent.com/amiraghajan78/amiraghajan78/53b70b8f0ecafa3a14dadeef714a7b7f2fd21011/Typescript-logo-vector-02.svg" />
