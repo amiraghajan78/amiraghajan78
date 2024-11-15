@@ -7,6 +7,9 @@ const myInformation = {
     "last-name" : "Aghajanzadeh",
     "birth-date" : "1999   March  21",
     "email" : "amiraghajan78@gmail.com",
+    "university" : "Imam Sadiq University",
+    "field-of-study" : "civil engineering"و
+    "degree" : "Bachelor",
     "tel" : 09300190663
   }
 };
