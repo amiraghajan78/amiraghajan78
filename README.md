@@ -56,3 +56,17 @@ const myInformation = {
 
 #### MySql 90%
 <img width="340px" src="https://github.com/amiraghajan78/amiraghajan78/blob/main/percent.png?raw=true" />
+
+
+
+
+<img width="50px" src="https://raw.githubusercontent.com/amiraghajan78/amiraghajan78/53b70b8f0ecafa3a14dadeef714a7b7f2fd21011/Bootstrap-logo-vector-01.svg" />
+<img width="50px" src="https://raw.githubusercontent.com/amiraghajan78/amiraghajan78/53b70b8f0ecafa3a14dadeef714a7b7f2fd21011/CSS-3-logo-vector-01.svg" />
+<img width="50px" src="https://raw.githubusercontent.com/amiraghajan78/amiraghajan78/53b70b8f0ecafa3a14dadeef714a7b7f2fd21011/HTML-5-logo-vector-01.svg" />
+<img width="50px" src="https://raw.githubusercontent.com/amiraghajan78/amiraghajan78/53b70b8f0ecafa3a14dadeef714a7b7f2fd21011/JQuery-logo-vector-01.svg" />
+<img width="50px" src="https://raw.githubusercontent.com/amiraghajan78/amiraghajan78/53b70b8f0ecafa3a14dadeef714a7b7f2fd21011/JavaScript-logo-vector-01.svg" />
+<img width="50px" src="https://raw.githubusercontent.com/amiraghajan78/amiraghajan78/53b70b8f0ecafa3a14dadeef714a7b7f2fd21011/MySQL-logo-vector-01.svg" />
+<img width="50px" src="https://raw.githubusercontent.com/amiraghajan78/amiraghajan78/53b70b8f0ecafa3a14dadeef714a7b7f2fd21011/PHP-logo-vector-01.svg" />
+<img width="50px" src="https://raw.githubusercontent.com/amiraghajan78/amiraghajan78/53b70b8f0ecafa3a14dadeef714a7b7f2fd21011/React-logo-vector-01.svg" />
+<img width="50px" src="https://raw.githubusercontent.com/amiraghajan78/amiraghajan78/53b70b8f0ecafa3a14dadeef714a7b7f2fd21011/Sass-logo-vector-01.svg" />
+<img width="50px" src="https://raw.githubusercontent.com/amiraghajan78/amiraghajan78/53b70b8f0ecafa3a14dadeef714a7b7f2fd21011/Typescript-logo-vector-02.svg" />
