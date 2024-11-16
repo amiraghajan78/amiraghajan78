@@ -34,26 +34,14 @@ const myInformation = {
 <img width="50px" src="https://raw.githubusercontent.com/amiraghajan78/amiraghajan78/53b70b8f0ecafa3a14dadeef714a7b7f2fd21011/Bootstrap-logo-vector-01.svg" /><img width="50px" src="https://raw.githubusercontent.com/amiraghajan78/amiraghajan78/53b70b8f0ecafa3a14dadeef714a7b7f2fd21011/CSS-3-logo-vector-01.svg" /><img width="50px" src="https://raw.githubusercontent.com/amiraghajan78/amiraghajan78/53b70b8f0ecafa3a14dadeef714a7b7f2fd21011/HTML-5-logo-vector-01.svg" /><img width="60px" src="https://raw.githubusercontent.com/amiraghajan78/amiraghajan78/fe49ebeea5052811585b9afbed5ea85658b66cde/JQuery-logo-vector-01.svg" /><img width="50px" src="https://raw.githubusercontent.com/amiraghajan78/amiraghajan78/53b70b8f0ecafa3a14dadeef714a7b7f2fd21011/JavaScript-logo-vector-01.svg" /><img width="50px" src="https://raw.githubusercontent.com/amiraghajan78/amiraghajan78/53b70b8f0ecafa3a14dadeef714a7b7f2fd21011/MySQL-logo-vector-01.svg" /><img width="50px" src="https://raw.githubusercontent.com/amiraghajan78/amiraghajan78/53b70b8f0ecafa3a14dadeef714a7b7f2fd21011/PHP-logo-vector-01.svg" /><img width="50px" src="https://raw.githubusercontent.com/amiraghajan78/amiraghajan78/53b70b8f0ecafa3a14dadeef714a7b7f2fd21011/React-logo-vector-01.svg" /><img width="50px" src="https://raw.githubusercontent.com/amiraghajan78/amiraghajan78/53b70b8f0ecafa3a14dadeef714a7b7f2fd21011/Sass-logo-vector-01.svg" /><img width="50px" src="https://raw.githubusercontent.com/amiraghajan78/amiraghajan78/53b70b8f0ecafa3a14dadeef714a7b7f2fd21011/Typescript-logo-vector-02.svg" />
 
 ## The percentage of my abilities :
-#### JavaScript 90%
-<img width="340px" src="https://github.com/amiraghajan78/amiraghajan78/blob/main/percent.png?raw=true" />
+#### JavaScript , PHP , MySql
+<img width="340px" src="https://github.com/amiraghajan78/amiraghajan78/blob/main/persent-line.png?raw=true" /> 90%
 
-#### React 80%
-<img width="300px" src="https://github.com/amiraghajan78/amiraghajan78/blob/main/percent.png?raw=true" />
+#### React , TypeScript 
+<img width="300px" src="https://github.com/amiraghajan78/amiraghajan78/blob/main/persent-line.png?raw=true" /> 80%
 
-#### HTML , CSS 100%
-<img width="395px" src="https://github.com/amiraghajan78/amiraghajan78/blob/main/percent.png?raw=true" />
+#### HTML , CSS , BootStrap , SASS
+<img width="395px" src="https://github.com/amiraghajan78/amiraghajan78/blob/main/persent-line.png?raw=true" /> 100%
 
-#### BootStrap 100%
-<img width="395px" src="https://github.com/amiraghajan78/amiraghajan78/blob/main/percent.png?raw=true" />
-
-#### JQuery 90%
-<img width="340px" src="https://github.com/amiraghajan78/amiraghajan78/blob/main/percent.png?raw=true" />
-
-#### TypeScript 80%
-<img width="300px" src="https://github.com/amiraghajan78/amiraghajan78/blob/main/percent.png?raw=true" />
-
-#### PHP 90%
-<img width="340px" src="https://github.com/amiraghajan78/amiraghajan78/blob/main/percent.png?raw=true" />
-
-#### MySql 90%
-<img width="340px" src="https://github.com/amiraghajan78/amiraghajan78/blob/main/percent.png?raw=true" />
+#### JQuery 
+<img width="340px" src="https://github.com/amiraghajan78/amiraghajan78/blob/main/persent-line.png?raw=true" /> 90%
