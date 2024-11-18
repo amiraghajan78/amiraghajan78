@@ -24,6 +24,7 @@ const myInformation = {
 ## My Activity :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amiraghajan78&show_icons=true&theme=radical)
 [![trophy](https://github-profile-trophy.vercel.app/?username=amiraghajan78&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amiraghajan78&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact Me :
 <a href="https://instagram.com/amir.1.1.78"><img src="https://github.com/amiraghajan78/amiraghajan78/blob/main/instagram.png?raw=true" /></a>
