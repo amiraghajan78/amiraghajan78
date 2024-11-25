@@ -12,7 +12,7 @@ const myInformation = {
     "birth-date" : "1999   March  21",
     "email" : "amiraghajan78@gmail.com",
     "university" : "Imam Sadiq University",
-    "field-of-study" : "civil engineering"و
+    "field-of-study" : "civil engineering",
     "degree" : "Bachelor",
     "tel" : 09300190663
   }
