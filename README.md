@@ -1,5 +1,8 @@
 ## Hi there 👋
 ### I'm Amirhosein Aghajanzadeh...! :-)
+
+![](https://komarev.com/ghpvc/?username=amiraghajan78&color=brightgreen)
+
 ```javascript
 const myInformation = {
   "status" : 200,
