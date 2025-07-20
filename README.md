@@ -34,9 +34,6 @@ const myInformation = {
 <a href="https://t.me/aghajan1178"><img src="https://github.com/amiraghajan78/amiraghajan78/blob/main/telegram.png?raw=true" /></a>
 <a href="https://wa.link/50eqf9"><img src="https://github.com/amiraghajan78/amiraghajan78/blob/main/whatsapp.png?raw=true" /></a>
 
-## Test project for react
-[`techno-store.ir`](https://techno-store.ir/)
-
 ## My Skils : 
 <img width="50px" src="https://raw.githubusercontent.com/amiraghajan78/amiraghajan78/53b70b8f0ecafa3a14dadeef714a7b7f2fd21011/Bootstrap-logo-vector-01.svg" /><img width="50px" src="https://raw.githubusercontent.com/amiraghajan78/amiraghajan78/53b70b8f0ecafa3a14dadeef714a7b7f2fd21011/CSS-3-logo-vector-01.svg" /><img width="50px" src="https://raw.githubusercontent.com/amiraghajan78/amiraghajan78/53b70b8f0ecafa3a14dadeef714a7b7f2fd21011/HTML-5-logo-vector-01.svg" /><img width="60px" src="https://raw.githubusercontent.com/amiraghajan78/amiraghajan78/fe49ebeea5052811585b9afbed5ea85658b66cde/JQuery-logo-vector-01.svg" /><img width="50px" src="https://raw.githubusercontent.com/amiraghajan78/amiraghajan78/53b70b8f0ecafa3a14dadeef714a7b7f2fd21011/JavaScript-logo-vector-01.svg" /><img width="50px" src="https://raw.githubusercontent.com/amiraghajan78/amiraghajan78/53b70b8f0ecafa3a14dadeef714a7b7f2fd21011/MySQL-logo-vector-01.svg" /><img width="50px" src="https://raw.githubusercontent.com/amiraghajan78/amiraghajan78/53b70b8f0ecafa3a14dadeef714a7b7f2fd21011/PHP-logo-vector-01.svg" /><img width="50px" src="https://raw.githubusercontent.com/amiraghajan78/amiraghajan78/53b70b8f0ecafa3a14dadeef714a7b7f2fd21011/React-logo-vector-01.svg" /><img width="50px" src="https://raw.githubusercontent.com/amiraghajan78/amiraghajan78/53b70b8f0ecafa3a14dadeef714a7b7f2fd21011/Sass-logo-vector-01.svg" /><img width="50px" src="https://raw.githubusercontent.com/amiraghajan78/amiraghajan78/53b70b8f0ecafa3a14dadeef714a7b7f2fd21011/Typescript-logo-vector-02.svg" />
 
